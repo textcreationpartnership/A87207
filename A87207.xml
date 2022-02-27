@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad nevves from Ireland: how the Lord hath been pleased to chastize the Parliaments forces by a losse from the rebels, where the souldiers transported in five boats, were afterwards repulsed by the enemy, and all but eight kild and drowned. Where wee lost Major Walker, Cap. Graves, Cap. Whiting, the Lord Deputies ensigne, and divers other precious stout men. With a list of the particulars, and the manner of the fight. Also the taking of the castle in the Weare, and Col. Tuthill and others cashiered for killing some of the Irish after quarter was given them. And the taking of the fort at Limbrick bridge by storm, with other considerable news. Certifyed by a letter from the Lord Deputy Ireton. July 4. 1651. It is thought fit that this letter from the Lord Deputy of Ireland, be forthwith printed and published, to prevent the mis-information of others. Imprimatur Hen. Scobel. Parliamenti.</title>
+            <author>Ireland. Lord Lieutenant (1650 : Ireton)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87207</idno>
+            <idno type="STC">Wing I1033</idno>
+            <idno type="STC">Thomason E638_13</idno>
+            <idno type="STC">ESTC R206638</idno>
+            <idno type="EEBO-CITATION">99865757</idno>
+            <idno type="PROQUEST">99865757</idno>
+            <idno type="VID">118008</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87207)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118008)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E638[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad nevves from Ireland: how the Lord hath been pleased to chastize the Parliaments forces by a losse from the rebels, where the souldiers transported in five boats, were afterwards repulsed by the enemy, and all but eight kild and drowned. Where wee lost Major Walker, Cap. Graves, Cap. Whiting, the Lord Deputies ensigne, and divers other precious stout men. With a list of the particulars, and the manner of the fight. Also the taking of the castle in the Weare, and Col. Tuthill and others cashiered for killing some of the Irish after quarter was given them. And the taking of the fort at Limbrick bridge by storm, with other considerable news. Certifyed by a letter from the Lord Deputy Ireton. July 4. 1651. It is thought fit that this letter from the Lord Deputy of Ireland, be forthwith printed and published, to prevent the mis-information of others. Imprimatur Hen. Scobel. Parliamenti.</title>
+                  <author>Ireland. Lord Lieutenant (1650 : Ireton)</author>
+                  <author>Ireton, Henry, 1611-1651.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson dwelling in Smithfield neere Hosier Lane end,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Commonwealth and Protectorate 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118008:1" rendition="simple:additions"/>
+            <p>Sad NEVVES from IRELAND: HOW The Lord hath been pleaſed to Cha<g ref="char:EOLhyphen"/>ſtize the Parliaments forces by a loſſe from the Rebels, where the Souldiers tranſported in five Boats, were afterwards repulſed by the enemy, and all but eight kild and drowned.</p>
+            <p>Where wee loſt Major <hi>Walker,</hi> Cap. <hi>Graves,</hi> Cap. <hi>Whit<g ref="char:EOLhyphen"/>ing,</hi> the Lord Deputies Enſigne, and divers other precious ſtout men.</p>
+            <p>
+               <hi>With a Liſt of the particulars, and the manner of the Fight.</hi>
+            </p>
+            <p>ALSO The taking of the Caſtle in the <hi>Weare,</hi> and Col. <hi>Tuthill</hi> and others Caſhiered for killing ſome of the <hi>Iriſh</hi> after quarter was given them.</p>
+            <p>And the taking of the Fort at <hi>Limbrick</hi> Bridge, by ſtorm, <hi>with other conſiderable News.</hi>
+            </p>
+            <p>CERTIFYED By a Letter from the Lord Deputy IRETON.</p>
+            <p>July 4. 1651.</p>
+            <q>
+               <p>IT is thought fit that this Letter from the Lord Deputy of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> be forthwith Printed and publiſhed, to prevent the miſ-in<g ref="char:EOLhyphen"/>formation of others.</p>
+               <bibl>
+                  <hi>Imprimatur</hi> Hen. Scobel Cleric. Parliamenti.</bibl>
+            </q>
+            <p>LONDON, Printed for <hi>Robert Ibbitſon</hi> dwelling in Smithfield neere Hoſier Lane end. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118008:2"/>
+            <pb n="1" facs="tcp:118008:2"/>
+            <head>Sad Newes from <hi>Ireland,</hi> Certified by a Letter from the Lord Deputy <hi>Ireton,</hi> From before <hi>Limbricke</hi> 15 <hi>July,</hi> 1651.</head>
+            <p>
+               <seg rend="decorInit">C</seg>OL. <hi>Tothill</hi> being lately put out of his place by a Coun<g ref="char:EOLhyphen"/>cell of War (for breach of quarter to ſome of the Enemy that were taken priſoners flying out of the Caſtle on the <hi>Weare,</hi> when we had begun to batter it) I intend Col. <hi>Le<g ref="char:EOLhyphen"/>hunt</hi> (if he returne) ſhall be Col. of that Regiment, and that his Lieutenant Col. <hi>Eaton</hi> (ſhall be Lieut. Col, to <hi>Sanders,</hi> or at leaſt Major to ſome other Regiment, his intended Maj. <hi>Warren</hi> that lately came over we ſhall diſpoſe of otherwiſe. And therefore I pray you let Col. <hi>Le<g ref="char:EOLhyphen"/>hunt</hi> and his Lieut. Col. be acquainted with ſo much (as from me) and know that I deſire both of them (if the Lieut. Col. be not come over be<g ref="char:EOLhyphen"/>fore you can give them notice hereof) or at leaſt that Col. <hi>Lehunt</hi> him<g ref="char:EOLhyphen"/>ſelfe do forbear the raiſing of any new Companies, or new men to bring over, either for themſelves or any other (as for their old Regiment) but that if any be already raiſed, for that purpoſe, they be disbanded (if not already come over) though we looſe the mony advanced (if need be) we having men enough (with the remainder of the Preſt men expected) to fil up all our Regiments to 1200 a peece or very neare (if not more. Wee took about a fortnight agone the Caſtle on the <hi>Weare.</hi> thoſe of the Enemy that were in it quitting it upon the firſt ſhot of two guns we had planted againſt it, one of which killed three of the men within, ſo as the reſt fled out immediately in their Cots, but being comanded from each ſide the river with the ſhot of our men, and ſome of them wounded in their Cots; they came in to our men, part of them to this ſide (where <hi>Tothils</hi> and <hi>Slades</hi> Companyes were) upon promiſe of Quarter, the other halfe to the other ſide (where Colonell <hi>Ingolsby</hi> was) rendring themſelves at his mer<g ref="char:EOLhyphen"/>cy.</p>
+            <p>The firſt being ſtript immediately, and committed to a guard by <hi>Slades</hi> men (that gave them Quarter.) were preſently after ſent for by Col. <hi>Tothill</hi>
+               <pb n="2" facs="tcp:118008:3"/>and by his order knocked in the head, notwithſtanding the Quarter promi<g ref="char:EOLhyphen"/>ſed. The latter that came in to <hi>Ingolsby</hi> at his mercy were ſpared, and not ſo much as ſtript or pillaged.</p>
+            <p>This we rejoyced in, as ſome ballance to the breach of Quarter upon the other (being about equall in number.) And giving notice to the Ene<g ref="char:EOLhyphen"/>my of what was done to both parties, wee did towards reparation releaſe and ſend them in freely (without exchange or ranſome) thoſe that wer priſoners with Col. <hi>Ingolsby</hi> at mercy, tendring what other ſatisfaction they would reaſonably deſire, but they askt no more, and for Juſtice amongſt our ſelves, I appointed Col. <hi>Tothill</hi> (that commanded and his Enſign that acted the Violation) to be preſently tryed by a Court of War.</p>
+            <p>But he alledgeing, that he did it partly from an opinion, that no Soul<g ref="char:EOLhyphen"/>diers or inferiour Officers had power to give Quarter without conſent of himſelfe, then being cheife in command on that Quarter, and partly from an apprehenſion, that I would have been offended with him if he had ſpa<g ref="char:EOLhyphen"/>red them; The Court thought fit to do no more juſtice, but caſhier him, and his Enſign for it.</p>
+            <p>But I fear it fell ſhort of the Juſtice of God required therein to the ac<g ref="char:EOLhyphen"/>quitting of the Army from the guilt of ſo foul a ſin (the excuſes whereof were equally abominable, for the baſe and ſervile fear pretended in the lat<g ref="char:EOLhyphen"/>ter part, as for the pride of ſpirit (I doubt) predominate in the for<g ref="char:EOLhyphen"/>mer.</p>
+            <p>About the ſame time we on this quarter having battered and opened the nearer ſide of the Caſtle on the Bridge, and filled up (with the rub<g ref="char:EOLhyphen"/>biſh of the Breach and ſome Bavins) the open Arch under their Draw-bridg before the Caſtle, ſtormed it, and God gave it into our hands; and we have ever ſince poſſeſſed it, and partly repaired it, and by other workes ſince carryed on beyond it upon the Bridge are poſſeſſed of about half their Bridge, ſo as they are ſufficiently lockt in on this ſide; But they have quite broke down two new Arches towards the further end, ſo as we have little hopes of making further uſe of it, to work our ſelves over the bridge, (as otherwiſe wee might) into the further Gate-houſe, and ſo into the Towne.</p>
+            <p>After this we attempted (by great Boates drawn from the ſhips below over land, towards the upper end of their Iſland, and by other leſſe boates, and a great floate brought over from Caſtle <hi>Connell</hi> to the <hi>Wear,</hi> and thence by water to the head of their Iſland) to ſtorme and poſſeſſe the Iſland, which they had incompaſſed with a Line all along the water ſide, pretty
+<pb n="3" facs="tcp:118008:3"/>well flankt, and a great Fort in the middle of it, which if we had poſſeſſed we might ſuddenly have been Maſters of the Towne.) But herein it plea<g ref="char:EOLhyphen"/>ſed the Lord, not to favour us, but on the contrary, to put a greater check and rebuke upon us, then I can remember or have heard to have fallen up<g ref="char:EOLhyphen"/>on any party of ours in this War (for ſo clear and ſad a loſſe both of the party ingaged, and the buſineſſe attempted.)</p>
+            <p>We had 11 Boats and two Cots (beſides the great Floate,) in the five boates firſt lanched (which were the leaſt) there went over my Maj. <hi>Wal<g ref="char:EOLhyphen"/>ker</hi> (who was appointed to command the whole party with Cap. <hi>Graves</hi> of Col. <hi>Stubbers</hi> Regiment, Cap. <hi>Whiting</hi> of Col. <hi>Axtels,</hi> and my own Enſign, and about 90 Souldiers, and non-Commiſſioned Officers, moſt of my Regiment, and Col. <hi>Stubbers.</hi> Four of theſe boats landed their men, and came off again to fetch more.</p>
+            <p>The men ran up to the Enemies line, beat off their Guard, and ſome of them purſued that Guard over the Line towards the Fort in the middle of the Iſland: But a freſh body of the Enemy from the Fort and other Guards of the Lyne (being betwixt 2 and 300 and not more as we could diſcern, or can ſince learn,) came ſuddenly upon thoſe of ours that were purſuing beyond the Line, beate them backe to the reſt on this ſide the Line, and ſuddenly forced the whole party (being in confuſion, and no Officer having any intire party of his own, as yet got over to make a body) from the Line unto the River again, where preſſing into the 5th. Boate that was but then landing, and halfe ſunk before with ſhot from the Ene<g ref="char:EOLhyphen"/>my, they ſunk her and ſo all the Officers and Souldiers that went in thoſe five boates (being preſt upon by the Enemies Pikes, and ſhot and forced further into the River were al drowned or killed before the reſt of the boats which were comming) and the Float could get over to ſecond or releive them, except about 6 or 7 Souldiers that by ſwimming to thoſe other boats that were comming, got off alive and one Souldier that had quarter from the Enemy.</p>
+            <p>The reſt of the boats being (before this) lanched and filled as faſt as could be, and the four that came back being filled again were got moſt of them to the middle of the River; by that time our firſt Parties were forced into the water and drowned, &amp; divers of them went on to the further ſhoar offering to land. But beyond their expectation, finding not any of our party left on the ſhoare, but ſuch a body of the Enemy ready to receive them, they turned head again, and ſo the reſt came back to us without attempting further.</p>
+            <pb n="4" facs="tcp:118008:4"/>
+            <p>And by this time the morning was grown too light, and the enemies too numerous, pouring out their ſhot ſo plentifully upon our naked ſhoare as it was too late to ſet on more men (though wee had more then enough in reſerve) or to renew the attempt, and beſides our men too much diſcour<g ref="char:EOLhyphen"/>aged by the ſad loſſe fallen upon our firſt parties: Wee find miſſing of the Party 86 or 87 men, beſides the foure Commiſſioned Officers aforementi<g ref="char:EOLhyphen"/>oned, and not more, what ever may be reported.</p>
+            <p>The moſt viſible occaſions of this defeat were, the going over and land<g ref="char:EOLhyphen"/>ing of the four firſt and ſmalleſt Boates ſo haſtily before the reſt, their boat<g ref="char:EOLhyphen"/>ing ſo confuſedly (not one Officer with any one intire party together their keeping no order nor holding a body together when landed, their over<g ref="char:EOLhyphen"/>haſty and diſorderly purſuite of the enemies firſt Guard beyond their line; whereas by appointment they ſhould, after beating the Guard from the line, have kept the line onely (which having no Ditch before it towards us, but as we underſtood, a ſmall one beyond it, on the enemies ſide was bet<g ref="char:EOLhyphen"/>ter to us againſt them, then to them againſt us, and have kept a body ſtand<g ref="char:EOLhyphen"/>ing betwixt the line and the River, to make good that part of the line, till the whole party of Foot, and a party of Horſe alſo upon the Float had landed) and the ſlowneſſe of lanching the greater Boates; the ſlackneſſe and confuſedneſſe of the reſt of the parties getting into them, and ſlowneſſe of their motion when filled: But all this made not above a minutes differ<g ref="char:EOLhyphen"/>ence betwixt the landing of the firſt Boates, and the comming over of the reſt (within which ſpace the firſt party was deſtroyed out of ſight, as if it had not been) and what ever we in that duskie time of twilight could diſ<g ref="char:EOLhyphen"/>cerne over the River or can learne of miſcarrage in our party, or what e<g ref="char:EOLhyphen"/>ver men may (as occaſions of miſcarriage) attribute the loſſe unto, the hand and will of God was eminently appearing againſt us in the whole; The ſe<g ref="char:EOLhyphen"/>curitie of landing, and facility of making good a landing (encloſed to us perfectly from any infall of their horſe by the very worke the enemy had made) was far greater then where we attempted, and God gave us paſſages for the Army over the River; you know wee had there but two Cotts and another ſmall Boat (which carried not at firſt above 24 Souldiers) here beſides the five firſt Boates which carried neere 100) we had eight more to follow which would carrie much above 200. and a great float of Caske &amp; Deales) reaching neare halfe over the River, which would beare neer 300. men, or a Troope of Horſe at once; yet in the other caſe God made the e<g ref="char:EOLhyphen"/>nemy both horſe and foot fly from thoſe few landing, and not hearts to re<g ref="char:EOLhyphen"/>turne upon them, when ſo little or ſo ſlow poſſibility of their being ſecond<g ref="char:EOLhyphen"/>ed)
+<pb n="5" facs="tcp:118008:4"/>but in this gave the enemy hearts (againſt all the danger and preparati<g ref="char:EOLhyphen"/>ons threatning them, though I dare ſay they dreampt not of ſuch a thing, nor had the leaſt Alarum till one minute or leſſe before our firſt Boates went over) to ſtand at firſt til our men came up to their line, &amp; after beaten thence to returne upon our party againe in the face of all the ſeconds comming af<g ref="char:EOLhyphen"/>ter) and to proſecute them and the ſhot both of them and a great reſerve of foot plac't all along our ſhoare and to act in the whole buſineſſe with as much courage, vigour, and reſolution as ever I ſaw men, and on the other ſide, ſo took away both the hearts and judgements of our party, that they did nothing with advantage, either to the juſtifying of the attempt, or their owne ſecurity, nor had confidence, when their lives were at ſtake, to fight one quarter of a minute for their owne lives, but diſtractedly (and yet at laſt in an heape together in the Water) caſt themſelves upon a certain death (as to ſuch as could not ſwimme) to avoide an uncertain and ſhort danger, when they knew before hand, and might eaſily diſcerne then ſo many ſe<g ref="char:EOLhyphen"/>conds comming over, as much out numbred the Enemy and (had they but ſtood and fought for their lives one quarter of a minute) they might evi<g ref="char:EOLhyphen"/>dently either have carried the attempt, (if the Lord had pleaſed) or been relieved and brought off in the Boates and Floate, ſufficient to have ſaved all; And yet I dare ſay both the Officers and Souldiers were men of as great naturall Courage and Reſolution ordinarily in this Cauſe as any in our Armies, and have done as valiantly when God hath pleaſed to favour them, Major <hi>Walker</hi> you know) commanded the party at our attempt for the paſſage of the Army at <hi>Brian-Bridge.</hi>
+            </p>
+            <p>Captaine <hi>Graves</hi> did the like the ſame day at <hi>Caſtle-Connell,</hi> both theſe failed and fell here under the hand and good pleaſure of our God, wee had many other advantages here, above what we had in the other caſe, more then I have leiſure to ſet forth, and almoſt as great as we could wiſh and (if poore Creatures may ſay ſo) it was not reſolved or gone upon without the feare of God, and much and oft ſeeking to him before and (I am perſwad<g ref="char:EOLhyphen"/>ed in much ſimplicity; yet bleſſed be his name we find cauſe (in truth) to ſay, <hi>That moſt juſtly the Lord hath rebuked us, and caſt reproach and confuſion of face upon us.</hi>
+            </p>
+            <p>I touched on one thing before, concerning the violation of Faith, and Quarter to Enemies coming out of the Water (who were ſome at the ex<g ref="char:EOLhyphen"/>ecution of them, forced into the ſame River againe and drowned.</p>
+            <p>God hath taught us alſo (in dreadfull language) who it was that gave us paſſage over this River, by his out-ſtretched arme, and taught us how to
+<pb n="6" facs="tcp:118008:5"/>value ſuch a mercy and reproved our under-valuings and unmindfulne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of it. Divers other things he hath hereby given us hints of his mind in (more then I can well make out) the wound was deep, and the rebuke and loſſe moſt ſad upon us all; yet thus far already appears to be from the good will of a Father, That through his grace it hath had (ſo far as we can judge of our ſelves or of others in the Army) a more deep through impreſsion, and tender kindly ſence of his hand then any ſuch diſpenſation I have known. But alas, we are apt (without daily new awakenings one way or other) to forget, grow cold, ſecure, and ſleepy againe, and ſoone looſe (even though in part we have found ſomewhat of) the fruit intended; and though this hath had ſome effects of humbling melting and teaching upon many hearts amongſt us; yet for the fore-going reaſon, and becauſe ſuch a ſignall and eminent teſtimony of his diſpleaſure towards us, in ſo un-uſed a kind of both blaſting our enterpriſe, and giving us up that party ſo clearly, and in view of all the reſt of us into the hands of our enemy is ſurely not without ſome extraordinary ground and ends; and when this inſolent e<g ref="char:EOLhyphen"/>nemy took occaſion of reproach, blaſpheming againſt our God with ſacri<g ref="char:EOLhyphen"/>fycing to their owne, and the hearts of his poore Servants that much ſought to him in that buſineſſe have temptation to diſcouragement, and to be a<g ref="char:EOLhyphen"/>ſhamed of their hope &amp; confidence, (as I deſire and beg that my ſelf &amp; o<g ref="char:EOLhyphen"/>thers here may not lightly or ſoon paſſe it over, or take it up with ſlight humiliation, or with ſhort and eaſie inquiries into our own hearts &amp; ways &amp; the mind of God in ſuch a thing, ſo) it calls for humiliation and earneſt ſup<g ref="char:EOLhyphen"/>plication of all Gods people concerned with us (that ſhall have notice o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it) that the full meaning and effects intended of ſuch a thing both to them<g ref="char:EOLunhyphen"/>ſelves and us, may bee made out, and not fallen ſhort thereof: To which end I have thus largely ſet forth theſe things, though much ſhort of wha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was obſervable and remarkable therein; we were before this in Treaty fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Towne, but made at that time the delay, indeed too politiquely on our parts: It hath been ſince renewed by them and readmitted by us, but now is in a manner broke off, (I am perſwaded) from duty and in faith on ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> parts, they are high and like to be hardened; Lets pray and commit all <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the good pleaſure of our Father, to whoſe abundant and immutable grace I commend you, and reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Your true friend,</hi> H: IRETON. <hi>Imprimatur Hen. Scobel Cler. Parliament<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </signed>
+               <dateline>
+                  <hi>From before Limbricke</hi> 
+                  <date>15. <hi>July</hi> 1651.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
